@@ -1,49 +1,59 @@
 	<transformation_mx_c name="Immobile Elements Normalized to Primitive Mantle" shortName="IPM">
-		<Comment>Series of immobile elements normalized to primitive mantle for altered rocks characterization </Comment>
-		<Reference>Sun and McDonough (1989)</Reference>
+		<Comment>Primordial Mantle Norm (McDonough et al 1992) </Comment>
+		<Reference>Sun and McDonough (1992)</Reference>
 
+		<element name="Rb"  unit="ppm">
+			<m>0.635</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Ba"  unit="ppm">
+			<m>6.99</m>
+			<c>0</c>
+		</element>		
+		
 		<element name="Th"  unit="ppm">
-			<m>0.085</m>
+			<m>0.084</m>
 			<c>0</c>
 		</element>
 
+		<element name="U"  unit="ppm">
+			<m>0.021</m>
+			<c>0</c>
+		</element>
+		
+		<element name="K"  unit="ppm">
+			<m>240.0</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Ta"  unit="ppm">
+			<m>0.041</m>
+			<c>0</c>
+		</element>
+		
 		<element name="Nb"  unit="ppm">
 			<m>0.713</m>
 			<c>0</c>
 		</element>
 
-		<element name="Ta"  unit="ppm">
-			<m>0.041</m>
-			<c>0</c>
-		</element>
-
 		<element name="La"  unit="ppm">
-			<m>0.687</m>
+			<m>0.708</m>
 			<c>0</c>
 		</element>
 
 		<element name="Ce"  unit="ppm">
-			<m>1.775</m>
+			<m>1.833</m>
 			<c>0</c>
 		</element>
 
-		<element name="Pr"  unit="ppm">
-			<m>0.276</m>
+		<element name="Sr"  unit="ppm">
+			<m>21.1</m>
 			<c>0</c>
 		</element>
 
 		<element name="Nd"  unit="ppm">
-			<m>1.354</m>
-			<c>0</c>
-		</element>
-
-		<element name="Sm"  unit="ppm">
-			<m>0.444</m>
-			<c>0</c>
-		</element>
-
-		<element name="Zr"  unit="ppm">
-			<m>11.2</m>
+			<m>1.366</m>
 			<c>0</c>
 		</element>
 
@@ -52,18 +62,18 @@
 			<c>0</c>
 		</element>
 
-		<element name="Eu"  unit="ppm">
-			<m>0.168</m>
+		<element name="Zr"  unit="ppm">
+			<m>11.2</m>
+			<c>0</c>
+		</element>
+
+		<element name="Sm"  unit="ppm">
+			<m>0.444</m>
 			<c>0</c>
 		</element>
 
 		<element name="Ti"  unit="ppm">
-			<m>1300</m>
-			<c>0</c>
-		</element>
-
-		<element name="Gd"  unit="ppm">
-			<m>0.596</m>
+			<m>1280</m>
 			<c>0</c>
 		</element>
 
@@ -72,28 +82,8 @@
 			<c>0</c>
 		</element>
 
-		<element name="Dy"  unit="ppm">
-			<m>0.737</m>
-			<c>0</c>
-		</element>
-
 		<element name="Y"  unit="ppm">
 			<m>4.55</m>
-			<c>0</c>
-		</element>
-
-		<element name="Er"  unit="ppm">
-			<m>0.480</m>
-			<c>0</c>
-		</element>
-
-		<element name="Yb"  unit="ppm">
-			<m>0.493</m>
-			<c>0</c>
-		</element>
-
-		<element name="Lu"  unit="ppm">
-			<m>0.074</m>
 			<c>0</c>
 		</element>
 
