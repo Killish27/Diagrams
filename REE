@@ -1,0 +1,76 @@
+	<transformation_mx_c name="REE Chondrite Norm (McDonough and Sun, 1995)" shortName="IPM">
+		<Comment>REE Chondrite Norm (McDonough et al 1995) </Comment>
+		<Reference>Sun and McDonough (1995)</Reference>
+
+		<element name="La"  unit="ppm">
+			<m>0.237</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Ce"  unit="ppm">
+			<m>0.613</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Pr"  unit="ppm">
+			<m>0.0928</m>
+			<c>0</c>
+		</element>		
+		
+		<element name="Nd"  unit="ppm">
+			<m>0.457</m>
+			<c>0</c>
+		</element>
+
+		<element name="Pm"  unit="ppm">
+			<m>0.0</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Sm"  unit="ppm">
+			<m>0.148</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Eu"  unit="ppm">
+			<m>0.0563</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Gd"  unit="ppm">
+			<m>0.199</m>
+			<c>0</c>
+		</element>
+
+		<element name="Tb"  unit="ppm">
+			<m>0.0361</m>
+			<c>0</c>
+		</element>
+
+		<element name="Dy"  unit="ppm">
+			<m>0.246</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ho"  unit="ppm">
+			<m>0.0546</m>
+			<c>0</c>
+		</element>
+
+		<element name="Er"  unit="ppm">
+			<m>0.16</m>
+			<c>0</c>
+		</element>
+
+		<element name="Yb"  unit="ppm">
+			<m>0.161</m>
+			<c>0</c>
+		</element>
+
+		<element name="Lu"  unit="ppm">
+			<m>0.0246</m>
+			<c>0</c>
+		</element>
+
+
+	</transformation_mx_c>
