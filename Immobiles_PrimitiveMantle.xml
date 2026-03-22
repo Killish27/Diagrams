@@ -1,94 +1,74 @@
-	<transformation_mx_c name="Primordial Mantle Norm (McDonough et al 1992)" shortName="IPM">
-		<Comment>Primordial Mantle Norm (McDonough et al 1992) </Comment>
-		<Reference>Sun and McDonough (1992)</Reference>
+	<transformation_mx_c name="REE Chondrite Norm (McDonough and Sun, 1995)" shortName="IPM">
+		<Comment>REE Chondrite Norm (McDonough and Sun, 1992) </Comment>
+		<Reference>McDonough and Sun (1995)</Reference>
 
-		<element name="Cs"  unit="ppm">
-			<m>0.023</m>
+		<element name="La"  unit="ppm">
+			<m>0.237</m>
 			<c>0</c>
 		</element>
 		
-		<element name="Rb"  unit="ppm">
-			<m>0.635</m>
+		<element name="Ce"  unit="ppm">
+			<m>0.613</m>
 			<c>0</c>
 		</element>
 		
-		<element name="Ba"  unit="ppm">
-			<m>6.99</m>
+		<element name="Pr"  unit="ppm">
+			<m>0.0928</m>
 			<c>0</c>
 		</element>		
 		
-		<element name="Th"  unit="ppm">
-			<m>0.084</m>
-			<c>0</c>
-		</element>
-
-		<element name="U"  unit="ppm">
-			<m>0.021</m>
-			<c>0</c>
-		</element>
-		
-		<element name="K"  unit="ppm">
-			<m>240.0</m>
-			<c>0</c>
-		</element>
-		
-		<element name="Ta"  unit="ppm">
-			<m>0.041</m>
-			<c>0</c>
-		</element>
-		
-		<element name="Nb"  unit="ppm">
-			<m>0.713</m>
-			<c>0</c>
-		</element>
-
-		<element name="La"  unit="ppm">
-			<m>0.708</m>
-			<c>0</c>
-		</element>
-
-		<element name="Ce"  unit="ppm">
-			<m>1.833</m>
-			<c>0</c>
-		</element>
-
-		<element name="Sr"  unit="ppm">
-			<m>21.1</m>
-			<c>0</c>
-		</element>
-
 		<element name="Nd"  unit="ppm">
-			<m>1.366</m>
+			<m>0.457</m>
 			<c>0</c>
 		</element>
 
-		<element name="Hf"  unit="ppm">
-			<m>0.309</m>
+		<element name="Pm"  unit="ppm">
+			<m>0.0</m>
 			<c>0</c>
 		</element>
-
-		<element name="Zr"  unit="ppm">
-			<m>11.2</m>
-			<c>0</c>
-		</element>
-
+		
 		<element name="Sm"  unit="ppm">
-			<m>0.444</m>
+			<m>0.148</m>
 			<c>0</c>
 		</element>
-
-		<element name="Ti"  unit="ppm">
-			<m>1280</m>
+		
+		<element name="Eu"  unit="ppm">
+			<m>0.0563</m>
+			<c>0</c>
+		</element>
+		
+		<element name="Gd"  unit="ppm">
+			<m>0.199</m>
 			<c>0</c>
 		</element>
 
 		<element name="Tb"  unit="ppm">
-			<m>0.108</m>
+			<m>0.0361</m>
 			<c>0</c>
 		</element>
 
-		<element name="Y"  unit="ppm">
-			<m>4.55</m>
+		<element name="Dy"  unit="ppm">
+			<m>0.246</m>
+			<c>0</c>
+		</element>
+
+		<element name="Ho"  unit="ppm">
+			<m>0.0546</m>
+			<c>0</c>
+		</element>
+
+		<element name="Er"  unit="ppm">
+			<m>0.16</m>
+			<c>0</c>
+		</element>
+
+		<element name="Yb"  unit="ppm">
+			<m>0.161</m>
+			<c>0</c>
+		</element>
+
+		<element name="Lu"  unit="ppm">
+			<m>0.0246</m>
 			<c>0</c>
 		</element>
 
